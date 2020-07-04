@@ -1,2 +1,2 @@
 # Darkfb
-cd DarkPremium
+
